@@ -1,0 +1,44 @@
+.back {
+    background-image: url("./../images/mifi-bg-4.jpg");
+    background-size: cover;
+    background-position: 70%;
+    height: 100vh;
+    width: 100%;
+    position: fixed;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.parent {
+    width: 250px;
+    border: #333333 5px solid;
+    padding-top: 25px;
+    padding-bottom: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #fce5de;
+}
+#f {
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: center;
+}
+#ff {
+    margin-bottom: 40px;
+    display: flex;
+    justify-content: center;
+}
+#fl {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+}
+.navlink {
+    text-decoration: none;
+    padding: 10px 20px;
+    color: #333333;
+}
+
+
+
